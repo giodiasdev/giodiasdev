@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 About me
 
-I'm a 25 years old Brazilian software developer. Currently working with development and customization of applications using Microsoft Power Platform and Microsoft Dynamics 365
+I'm a 25 years old Brazilian software developer. Currently working with development and customization of applications using Microsoft Power Platform and Microsoft Dynamics 365.
 
 
 ## 📲 Social media
@@ -24,4 +24,5 @@ I'm a 25 years old Brazilian software developer. Currently working with developm
 
 
 ## 📜 Certifications
-[![Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](assets/badges/credly/microsoft/microsoft-certified-dynamics-365-customer-service-functional-consultant-associate.2.png)](https://www.credly.com/badges/0e86f1c6-8a92-455a-95d3-3f631a500dc4/public_url)
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/MatheusDias/E5FB8042216074F7?sharingId=3E57ED59AB72F00"><img height="120" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Microsoft Certified: Power Platform Functional Consultant Associate" title="Microsoft Certified: Power Platform Functional Consultant Associate"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/MatheusDias/64601E5B36AA5C24?sharingId=3E57ED59AB72F00"><img height="120" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate" title="Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate"></a>
