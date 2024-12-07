@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 About me
 
-I'm a 25 years old Brazilian software developer. Currently working with development and customization of applications using Microsoft Power Platform and Microsoft Dynamics 365.
+I'm a 27 years old Brazilian software developer. Currently working with development and customization of applications using Microsoft Power Platform and Microsoft Dynamics 365.
 
 
 ## 📲 Social media
