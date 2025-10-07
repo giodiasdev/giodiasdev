@@ -5,7 +5,7 @@
 I am a Brazilian software developer currently working with application development and customization using Microsoft Power Platform and Microsoft Dynamics 365.
 
 
-## 🔧 Skills
+## 🛠️ Skills
 
 - C#, .NET, JavaScript, Python, C, C++
 - HTML5, CSS, React, Tailwind CSS
@@ -13,7 +13,7 @@ I am a Brazilian software developer currently working with application developme
 - Microsoft Dynamics 365: Customer Service, Sales, Project Operations
 
 
-## 📜 Certifications
+## 🏆 Certifications
 
 - [Microsoft Certified: Power Platform Functional Consultant Associate](https://learn.microsoft.com/api/credentials/share/en-us/MatheusDias/E5FB8042216074F7?sharingId=3E57ED59AB72F00)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://learn.microsoft.com/api/credentials/share/en-us/MatheusDias/64601E5B36AA5C24?sharingId=3E57ED59AB72F00)
@@ -23,4 +23,4 @@ I am a Brazilian software developer currently working with application developme
 ## 📫 Contact
 
 - [/giodiasdev](https://github.com/giodiasdev)
-- [/giodias](https://www.linkedin.com/in/giodias/?locale=en_US)
+- [/in/giodias](https://www.linkedin.com/in/giodias)
